@@ -113,6 +113,11 @@ a{text-decoration: none;}
     box-shadow: 1px 1px 10px rgb(151, 151, 151), 0px 0px 10px rgb(184, 184, 184);
     background-color: #fff;
 }
+.project-link{
+    display: inline-block;
+    color: blue;
+    margin-left: 10px;
+}
 .year{
     color: green;
     font-size: medium;

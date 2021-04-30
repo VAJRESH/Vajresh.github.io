@@ -122,6 +122,11 @@ a{text-decoration: none;}
     font-size: medium;
     font-weight: 500;
 }
+.project-link{
+    display: inline-block;
+    color: rgb(9, 157, 255);
+    margin-left: 10px;
+}
 
 /* Social Media Links */
 footer{
@@ -169,7 +174,11 @@ footer{
 }
 
 /* Hovering Edits */
-footer a:hover{opacity: 0.5;font-size: 30px;}
+footer a:hover{
+    opacity: 0.5;
+    font-size: 30px;
+}
+
 a[href="mailto:vajresh005@gmail.com"]:hover{
     color: rgb(55, 118, 255);
     font-size: larger;
